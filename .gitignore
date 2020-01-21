@@ -1,0 +1,5 @@
+consoleApp/bin/
+consoleApp/obj/
+db/bin/
+db/obj/
+xunit/obj/
